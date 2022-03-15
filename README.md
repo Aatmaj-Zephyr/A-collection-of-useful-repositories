@@ -17,3 +17,6 @@ _______
 _______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Aatmaj-Zephyr&repo=Learning-Python)](https://github.com/Aatmaj-Zephyr/Learning-Python)
+_______
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Aatmaj-Zephyr&repo=MATLAB-MONDAYS)](https://github.com/Aatmaj-Zephyr/MATLAB-MONDAYS)
