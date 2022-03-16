@@ -20,3 +20,6 @@ _______
 _______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Aatmaj-Zephyr&repo=MATLAB-MONDAYS)](https://github.com/Aatmaj-Zephyr/MATLAB-MONDAYS)
+_______
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Aatmaj-Zephyr&repo=Solutions-to-first-year-practicals)](https://github.com/Aatmaj-Zephyr/Solutions-to-first-year-practicals)
