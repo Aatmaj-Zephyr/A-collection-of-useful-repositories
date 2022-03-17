@@ -23,3 +23,6 @@ _______
 _______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Aatmaj-Zephyr&repo=Solutions-to-first-year-practicals)](https://github.com/Aatmaj-Zephyr/Solutions-to-first-year-practicals)
+_______
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kjsce-codecell&repo=Advance-Python-Notes)](https://github.com/kjsce-codecell/Advance-Python-Notes)
