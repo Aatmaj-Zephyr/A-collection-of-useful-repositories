@@ -30,3 +30,7 @@ _______
 _______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=riti2409&repo=Books_for_programming)](https://github.com/riti2409/Books_for_programming)
+
+_______
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Python)](https://github.com/TheAlgorithms/Python)
