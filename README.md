@@ -37,3 +37,7 @@ _______
 _______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Python)](https://github.com/TheAlgorithms/Python)
+
+_______
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=LeCoupa&repo=awesome-cheatsheets)](https://github.com/LeCoupa/awesome-cheatsheets)
