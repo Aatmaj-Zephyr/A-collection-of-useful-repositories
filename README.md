@@ -41,3 +41,7 @@ _______
 _______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=LeCoupa&repo=awesome-cheatsheets)](https://github.com/LeCoupa/awesome-cheatsheets)
+
+_______
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kodekloudhub&repo=git-for-beginners-course)](https://github.com/kodekloudhub/git-for-beginners-course)
