@@ -45,3 +45,7 @@ _______
 _______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kodekloudhub&repo=git-for-beginners-course)](https://github.com/kodekloudhub/git-for-beginners-course)
+
+_______
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=riti2409&repo=DBMS_SQL-Notes)](https://github.com/riti2409/DBMS_SQL-Notes)
