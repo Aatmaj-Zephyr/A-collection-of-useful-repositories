@@ -7,6 +7,9 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=WonderPro&repo=LeetCode)](https://github.com/WonderPro/LeetCode)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=nileshky1&repo=LeetCode-practice)](https://github.com/nileshky1/LeetCode-Practice)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=knockcat&repo=Leetcode)](https://github.com/knockcat/Leetcode)
 _______
 
