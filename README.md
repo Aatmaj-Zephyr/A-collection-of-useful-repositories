@@ -6,6 +6,8 @@ WORK IN PROGRESS
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=SanKlein&repo=JavaScript-30)](https://github.com/SanKlein/JavaScript-30)
 _______
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kamranahmedse&repo=design-patterns-for-humans)](https://github.com/kamranahmedse/design-patterns-for-humans)
+_______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=stephencarrera&repo=toy-problems)](https://github.com/stephencarrera/toy-problems)
 _______
