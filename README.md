@@ -7,6 +7,9 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=SanKlein&repo=JavaScript-30)](https://github.com/SanKlein/JavaScript-30)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=vsouza&repo=awesome-ios)](https://github.com/vsouza/awesome-ios)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=SanKlein&repo=practice)](https://github.com/SanKlein/practice)
 _______
 
