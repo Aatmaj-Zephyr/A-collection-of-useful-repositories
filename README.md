@@ -6,6 +6,9 @@ WORK IN PROGRESS
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=careermonk&repo=data-structures-and-algorithms-made-easy-in-java)](https://github.com/careermonk/data-structures-and-algorithms-made-easy-in-java)
 _______
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=fullstackreact&repo=30-days-of-react)](https://github.com/fullstackreact/30-days-of-react)
+_______
+
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=SanKlein&repo=JavaScript-30)](https://github.com/SanKlein/JavaScript-30)
 _______
