@@ -13,6 +13,11 @@ _______
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=tchapi&repo=markdown-cheatsheet)](https://github.com/tchapi/markdown-cheatsheet)
 _______
 
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=C-Plus-Plus)](https://github.com/TheAlgorithms/C-Plus-Plus)
+_______
+
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=SanKlein&repo=JavaScript-30)](https://github.com/SanKlein/JavaScript-30)
 _______
 
