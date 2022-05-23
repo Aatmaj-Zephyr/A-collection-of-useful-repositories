@@ -82,6 +82,10 @@ _______
 
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=riti2409&repo=Resources-for-preparation-Of-Placements)](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
+
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=LeCoupa&repo=awesome-cheatsheets)](https://github.com/LeCoupa/awesome-cheatsheets)
 
 _______
