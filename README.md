@@ -61,6 +61,9 @@ _______
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rupak-20&repo=DSA-concepts)](https://github.com/rupak-20/DSA-concepts)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rupak-20&repo=Competitive-Programming)](https://github.com/rupak-20/Competitive-Programming)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Aatmaj-Zephyr&repo=Learning-Python)](https://github.com/Aatmaj-Zephyr/Learning-Python)
 _______
 
