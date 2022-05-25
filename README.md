@@ -10,6 +10,9 @@ _______
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=fullstackreact&repo=30-days-of-react)](https://github.com/fullstackreact/30-days-of-react)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=sematext&repo=cheatsheets)](https://github.com/sematext/cheatsheets)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=tchapi&repo=markdown-cheatsheet)](https://github.com/tchapi/markdown-cheatsheet)
 _______
 
