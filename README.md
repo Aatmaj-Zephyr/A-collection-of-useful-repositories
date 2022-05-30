@@ -14,6 +14,9 @@ _______
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=goldbergyoni&repo=nodejs-course)](https://github.com/goldbergyoni/nodejs-course)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=SoftUni&repo=Programming-Basics-Book-Java-EN)](https://github.com/SoftUni/Programming-Basics-Book-Java-EN)
+_______
+
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=careermonk&repo=data-structures-and-algorithms-made-easy-in-java)](https://github.com/careermonk/data-structures-and-algorithms-made-easy-in-java)
 _______
