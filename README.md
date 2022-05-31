@@ -8,6 +8,11 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=0xRitesh&repo=awesome-repositories)](https://github.com/0xRitesh/awesome-repositories)
 _______
 
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=matplotlib&repo=cheatsheets)](https://github.com/matplotlib/cheatsheets)
+_______
+
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MoonHighway&repo=learning-react)](https://github.com/MoonHighway/learning-react)
 _______
 
