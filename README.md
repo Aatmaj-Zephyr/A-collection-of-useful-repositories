@@ -9,7 +9,10 @@ WORK IN PROGRESS
 _______
 
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=matplotlib&repo=cheatsheets)](https://github.com/matplotlib/cheatsheets)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=0xRitesh&repo=awesome-repositories)](https://github.com/0xRitesh/awesome-repositories)
+_______
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=darkmatter18&repo=cheatsheet)](https://github.com/darkmatter18/cheatsheet)
 _______
 
 
