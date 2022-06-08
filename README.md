@@ -8,6 +8,9 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=0xRitesh&repo=awesome-repositories)](https://github.com/0xRitesh/awesome-repositories)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=geektutu&repo=7days-golang)](https://github.com/geektutu/7days-golang)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=balsikandar&repo=Best-Coding-practices-in-android)](https://github.com/balsikandar/Best-Coding-practices-in-android)
 _______
 
