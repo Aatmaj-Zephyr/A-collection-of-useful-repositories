@@ -8,6 +8,9 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=0xRitesh&repo=awesome-repositories)](https://github.com/0xRitesh/awesome-repositories)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wilfredinni&repo=python-cheatsheet)](https://github.com/wilfredinni/python-cheatsheet)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=technojam&repo=Ultimate_Algorithms_Repository)](https://github.com/technojam/Ultimate_Algorithms_Repository)
 _______
 
