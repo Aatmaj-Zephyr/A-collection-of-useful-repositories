@@ -8,6 +8,10 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=0xRitesh&repo=awesome-repositories)](https://github.com/0xRitesh/awesome-repositories)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=lifeparticle&repo=Ruby-Cheatsheet)](https://github.com/lifeparticle/Ruby-Cheatsheet)
+_______
+
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rmolinamir&repo=typescript-cheatsheet)](https://github.com/rmolinamir/typescript-cheatsheet)
 _______
 
