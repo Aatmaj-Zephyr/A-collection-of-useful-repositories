@@ -8,6 +8,9 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=0xRitesh&repo=awesome-repositories)](https://github.com/0xRitesh/awesome-repositories)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Krish-Mahajan&repo=Pandas-Tutorial)](https://github.com/Krish-Mahajan/Pandas-Tutorial)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jgoerner&repo=distribution-cheatsheet)](https://github.com/jgoerner/distribution-cheatsheet)
 _______
 
