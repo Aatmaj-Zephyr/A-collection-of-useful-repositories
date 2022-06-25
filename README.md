@@ -8,6 +8,9 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=0xRitesh&repo=awesome-repositories)](https://github.com/0xRitesh/awesome-repositories)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Ivo-Balbaert&repo=learning_dart)](https://github.com/Ivo-Balbaert/learning_dart)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=iharshb&repo=flutter_ui_collection)](https://github.com/iharshb/flutter_ui_collection)
 _______
 
