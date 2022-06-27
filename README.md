@@ -11,6 +11,8 @@ _______
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ansjdnakjdnajkd&repo=iOS)](https://github.com/ansjdnakjdnajkd/iOS)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=coding-club-iit-jammu&repo=Coding-Interview-Preparation)](https://github.com/coding-club-iit-jammu/Coding-Interview-Preparation)
+_______
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Ivo-Balbaert&repo=learning_dart)](https://github.com/Ivo-Balbaert/learning_dart)
 _______
 
