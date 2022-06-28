@@ -5,10 +5,13 @@ This is a collection of useful repositories providing resources for learning
 WORK IN PROGRESS
 
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ansjdnakjdnajkd&repo=iOS)](https://github.com/ansjdnakjdnajkd/iOS)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=0xRitesh&repo=awesome-repositories)](https://github.com/0xRitesh/awesome-repositories)
 _______
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ansjdnakjdnajkd&repo=iOS)](https://github.com/ansjdnakjdnajkd/iOS)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Olshansk&repo=interview)](https://github.com/Olshansk/interview)
 _______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=coding-club-iit-jammu&repo=Coding-Interview-Preparation)](https://github.com/coding-club-iit-jammu/Coding-Interview-Preparation)
