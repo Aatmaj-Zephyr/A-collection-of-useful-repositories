@@ -8,6 +8,9 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Donohue&repo=alexa)](https://github.com/Donohue/alexa)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ctjhoa&repo=rust-learning)](https://github.com/ctjhoa/rust-learning)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=workshopper&repo=javascripting)](https://github.com/workshopper/javascripting)
 _______
 
