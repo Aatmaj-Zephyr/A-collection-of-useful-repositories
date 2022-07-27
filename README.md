@@ -8,6 +8,9 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Donohue&repo=alexa)](https://github.com/Donohue/alexa)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rossant&repo=awesome-math)](https://github.com/rossant/awesome-math)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=giangtranml&repo=ml-from-scratch)](https://github.com/giangtranml/ml-from-scratch)
 _______
 
