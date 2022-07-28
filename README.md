@@ -8,6 +8,10 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Donohue&repo=alexa)](https://github.com/Donohue/alexa)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=hrnbot&repo=Basic-Mathematics-for-Machine-Learning)](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning)
+_______
+
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rossant&repo=awesome-math)](https://github.com/rossant/awesome-math)
 _______
 
