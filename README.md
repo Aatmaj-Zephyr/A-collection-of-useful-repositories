@@ -8,6 +8,8 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Donohue&repo=alexa)](https://github.com/Donohue/alexa)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TalalAlrawajfeh&repo=mathematics-roadmap)](https://github.com/TalalAlrawajfeh/mathematics-roadmap)
+_______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=PlamenStilyianov&repo=FinMathematics)](https://github.com/PlamenStilyianov/FinMathematics)
 _______
