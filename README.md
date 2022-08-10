@@ -8,6 +8,9 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Donohue&repo=alexa)](https://github.com/Donohue/alexa)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=drvinceknight&repo=Python-Mathematics-Handbook)](https://github.com/drvinceknight/Python-Mathematics-Handbook)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Jam3&repo=math-as-code)](https://github.com/Jam3/math-as-code)
 _______
 
