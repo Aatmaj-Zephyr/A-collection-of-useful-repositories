@@ -8,6 +8,10 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Donohue&repo=alexa)](https://github.com/Donohue/alexa)
 _______
 
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=patrickwalls&repo=mathematicalpython)](https://github.com/patrickwalls/mathematicalpython)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=drvinceknight&repo=Python-Mathematics-Handbook)](https://github.com/drvinceknight/Python-Mathematics-Handbook)
 _______
 
@@ -19,7 +23,7 @@ _______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TalalAlrawajfeh&repo=mathematics-roadmap)](https://github.com/TalalAlrawajfeh/mathematics-roadmap)
 _______
-
+ft
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=PlamenStilyianov&repo=FinMathematics)](https://github.com/PlamenStilyianov/FinMathematics)
 _______
 
