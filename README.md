@@ -5,6 +5,9 @@ This is a collection of useful repositories providing resources for learning
 WORK IN PROGRESS
 
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=smartcontractkit&repo=full-blockchain-solidity-course-js)](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Donohue&repo=alexa)](https://github.com/Donohue/alexa)
 _______
 
