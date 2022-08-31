@@ -8,6 +8,13 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=smartcontractkit&repo=full-blockchain-solidity-course-js)](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 _______
 
+
+
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=protofire&repo=blockchain-learning-path)](https://github.com/protofire/blockchain-learning-path)
+_______
+
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=IoT-For-Beginners)](https://github.com/microsoft/IoT-For-Beginners)
 _______
 
