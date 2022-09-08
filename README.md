@@ -1,6 +1,6 @@
 # A-collection-of-useful-repositories
 This is a collection of useful repositories providing resources for learning
-
+This repository provides a list of interesting repositories which contain various courses/tutorials/materials from which we can learn new technologies. This is a manually curated list.
 
 WORK IN PROGRESS
 
@@ -16,6 +16,10 @@ _______
 
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=IoT-For-Beginners)](https://github.com/microsoft/IoT-For-Beginners)
+_______
+
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TarrySingh&repo=Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
 _______
 
 
