@@ -26,6 +26,10 @@ _______
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Donohue&repo=alexa)](https://github.com/Donohue/alexa)
 _______
 
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=mmenestret&repo=fp-resources)](https://github.com/mmenestret/fp-resources)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kunal-kushwaha&repo=DSA-Bootcamp-Java)](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 _______
 
