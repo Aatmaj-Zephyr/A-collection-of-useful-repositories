@@ -8,6 +8,8 @@ WORK IN PROGRESS
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=smartcontractkit&repo=full-blockchain-solidity-course-js)](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=codescoop&repo=Play-with-Data-Structures)](https://github.com/codescoop/Play-with-Data-Structures)
+_______
 
 
 
