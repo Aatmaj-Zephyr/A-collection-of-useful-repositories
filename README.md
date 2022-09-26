@@ -29,6 +29,9 @@ _______
 _______
 
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wsvincent&repo=awesome-django)](https://github.com/wsvincent/awesome-django)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=mission-peace&repo=interview)](https://github.com/mission-peace/interview)
 _______
 
