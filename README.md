@@ -13,6 +13,9 @@ How to contribute?
 ```
 
 
+Example - https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories/pull/4
+View this pull request to see how to contribute to this repo.
+
 WORK IN PROGRESS
 
 
