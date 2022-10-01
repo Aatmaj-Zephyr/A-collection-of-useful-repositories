@@ -22,7 +22,8 @@ _______
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=codescoop&repo=Play-with-Data-Structures)](https://github.com/codescoop/Play-with-Data-Structures)
 _______
 
-
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=PrajaktaSathe&repo=Java)](https://github.com/PrajaktaSathe/Java)
+_______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=protofire&repo=blockchain-learning-path)](https://github.com/protofire/blockchain-learning-path)
 _______
