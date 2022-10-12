@@ -313,4 +313,6 @@ _______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jwasham&repo=coding-interview-university)](https://github.com/jwasham/coding-interview-university)
 
+_______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Ashish-khanagwal&repo=Open-source-practice-and-resources)](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources)
