@@ -319,3 +319,11 @@ _______
 _______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Ashish-khanagwal&repo=Open-source-practice-and-resources)](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources)
+
+_______
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java)](https://github.com/TheAlgorithms/Java)
+
+_______
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Navaneethp007&repo=MissionImpossible)](https://github.com/Navaneethp007/MissionImpossible)
