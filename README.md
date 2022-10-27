@@ -327,3 +327,6 @@ _______
 _______
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Navaneethp007&repo=MissionImpossible)](https://github.com/Navaneethp007/MissionImpossible)
+
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=tsiege&repo=Tech-Interview-Cheat-Sheet)](https://github.com/tsiege/Tech-Interview-Cheat-Sheet)
