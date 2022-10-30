@@ -330,3 +330,7 @@ _______
 
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=tsiege&repo=Tech-Interview-Cheat-Sheet)](https://github.com/tsiege/Tech-Interview-Cheat-Sheet)
+
+
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=trekhleb&repo=javascript-algorithms)](https://github.com/trekhleb/javascript-algorithms)
