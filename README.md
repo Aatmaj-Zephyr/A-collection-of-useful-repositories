@@ -18,6 +18,10 @@ View this pull request to see how to contribute to this repo.
 
 WORK IN PROGRESS
 
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ryanthtra&repo=django-rest-api-cheatsheet)](https://github.com/ryanthtra/django-rest-api-cheatsheet)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=inancgumus&repo=learngo)](https://github.com/inancgumus/learngo)
 _______
 
