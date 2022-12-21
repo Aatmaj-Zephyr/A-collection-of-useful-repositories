@@ -21,6 +21,10 @@ WORK IN PROGRESS
 )](https://github.com/jwasham/coding-interview-university)
 _______
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jassics&repo=security-study-plan
+)](https://github.com/jassics/security-study-plan)
+_______
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ryanthtra&repo=django-rest-api-cheatsheet)](https://github.com/ryanthtra/django-rest-api-cheatsheet)
 _______
 
