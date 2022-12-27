@@ -147,6 +147,7 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Aatmaj-Zephyr&repo=Learning-Python)](	https://github.com/Aatmaj-Zephyr/Learning-Python)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Aatmaj-Zephyr&repo=MATLAB-MONDAYS)](	https://github.com/Aatmaj-Zephyr/MATLAB-MONDAYS)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kjsce-codecell&repo=Advance-Python-Notes)](	https://github.com/kjsce-codecell/Advance-Python-Notes)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=PrachetShah&repo=Python-100DaysOfCode)](	https://github.com/PrachetShah/Python-100DaysOfCode)
  
 ### Data base
 
