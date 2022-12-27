@@ -1,19 +1,11 @@
-# A-collection-of-useful-repositories
-This is a collection of useful repositories providing resources for learning
-This repository provides a list of interesting repositories which contain various courses/tutorials/materials from which we can learn new technologies. This is a manually curated list.
+# 📒 Useful repositories for every developer!!
 
-Please feel free to contribute...
 
-How to contribute?
-1) Search for a useful github repository. The repository must be useful for learning code. Example it must contain resources, cheatsheets or references to learning material.
-2) The repository must not be the one already included in this repo.
-3) Paste the link and username of repository in this format.
-```
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPONAME)](HYPERLINK)
-```
+This is a hand picked and carefully curated collection of col github repositories. These repositories offer many courses/tutorials/materials for learning a variety of stuff! 
 
-Example - https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories/pull/4
-View this pull request to see how to contribute to this repo.
+So what are we waiting for! Let's get started! 
+
+###### Dont forget to  star the repo? 🤩
 
 
 ## Table of contents
@@ -175,7 +167,7 @@ View this pull request to see how to contribute to this repo.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=0xRitesh&repo=awesome-repositories)](	https://github.com/0xRitesh/awesome-repositories)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Thuva4&repo=Useful-Repositories)](	https://github.com/Thuva4/Useful-Repositories)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=0xRitesh&repo=awesome-repositories)](	https://github.com/0xRitesh/awesome-repositories)
+
  
  ### git 
 
@@ -192,3 +184,13 @@ View this pull request to see how to contribute to this repo.
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kamranahmedse&repo=developer-roadmap)](	https://github.com/kamranahmedse/developer-roadmap)
  
 	
+	
+______
+
+
+## 🤝 Help grow the community
+
+Know a cool repo? Let us know by opening a [pull request](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories/fork)!
+
+
+
