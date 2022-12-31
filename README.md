@@ -1,36 +1,36 @@
-# 📒 Useful repositories for every developer!!
+# 📒 Useful Repositories for Every Developer!
 
 
-This is a hand picked and carefully curated collection of col github repositories. These repositories offer many courses/tutorials/materials for learning a variety of stuff! 
+This is a hand picked and carefully curated collection of cool github repositories. These repositories offer many courses/tutorials/materials for learning a variety of stuff! 
 
 So what are we waiting for! Let's get started! 
 
-###### Dont forget to  star the repo? 🤩
+###### Don't forget to  star the repo! 🤩
 
 
-## Table of contents
+## Table of contents.
 
-- [Data structures](#data-structures)
-- [Machine learning](#machine-learning)
-- [Math](#math)
-- [Flutter and App dev](#flutter-and-app-dev)
-- [IOT](#iot)
-- [University](#university)
-- [Interview prep](#interview-prep)
-- [CP](#cp)
-- [IOS](#ios)
-- [Blockchain](#blockchain)
-- [Cloud computing](#cloud-computing)
-- [Web dev](#web-dev)
-- [Security](#security)
-- [Language resources questions and cheatsheets](#language-resources-questions-and-cheatsheets)
-- [Data base](#data-base)
-- [cheatsheets](#cheatsheets)
-- [Awesome github repositories](#awesome-github-repositories)
-- [git](#git)
-- [Others](#others)
+- [Data structures.](#data-structures)
+- [Machine learning.](#machine-learning)
+- [Math.](#math)
+- [Flutter and App Dev.](#flutter-and-app-dev)
+- [IOT.](#iot)
+- [University.](#university)
+- [Interview prep.](#interview-prep)
+- [Competitive Programming.](#cp)
+- [iOS.](#ios)
+- [Blockchain.](#blockchain)
+- [Cloud Computing.](#cloud-computing)
+- [Web Dev.](#web-dev)
+- [Security.](#security)
+- [Language Resources, Questions and Cheatsheets.](#language-resources-questions-and-cheatsheets)
+- [Data Base](#data-base)
+- [Cheatsheets.](#cheatsheets)
+- [Awesome Github Repositories.](#awesome-github-repositories)
+- [Git.](#git)
+- [Others.](#others)
 
-### Data structures
+### Data Structures.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jwasham&repo=coding-interview-university)](	https://github.com/jwasham/coding-interview-university)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=codescoop&repo=Play-with-Data-Structures)](	https://github.com/codescoop/Play-with-Data-Structures)
@@ -43,14 +43,14 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java)](	https://github.com/TheAlgorithms/Java)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=trekhleb&repo=javascript-algorithms)](	https://github.com/trekhleb/javascript-algorithms)
  
-### Machine learning
+### Machine Learning.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TarrySingh&repo=Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)](	https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=hrnbot&repo=Basic-Mathematics-for-Machine-Learning)](	https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=giangtranml&repo=ml-from-scratch)](	https://github.com/giangtranml/ml-from-scratch)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Krish-Mahajan&repo=Pandas-Tutorial)](	https://github.com/Krish-Mahajan/Pandas-Tutorial)
  
-### Math
+### Math.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=patrickwalls&repo=mathematicalpython)](	https://github.com/patrickwalls/mathematicalpython)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=drvinceknight&repo=Python-Mathematics-Handbook)](	https://github.com/drvinceknight/Python-Mathematics-Handbook)
@@ -61,7 +61,7 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rossant&repo=awesome-math)](	https://github.com/rossant/awesome-math)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jgoerner&repo=distribution-cheatsheet)](	https://github.com/jgoerner/distribution-cheatsheet)
  
-### Flutter and App dev
+### Flutter and App Dev.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=vandadnp&repo=flutter-tips-and-tricks)](	https://github.com/vandadnp/flutter-tips-and-tricks)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Ivo-Balbaert&repo=learning_dart)](	https://github.com/Ivo-Balbaert/learning_dart)
@@ -69,17 +69,17 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=vamsitallapudi&repo=Android-Interview-Questions-And-Answers)](	https://github.com/vamsitallapudi/Android-Interview-Questions-And-Answers)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=balsikandar&repo=Best-Coding-practices-in-android)](	https://github.com/balsikandar/Best-Coding-practices-in-android)
  
-### IOT
+### IOT.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=IoT-For-Beginners)](	https://github.com/microsoft/IoT-For-Beginners)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=V33RU&repo=IoTSecurity101)](	https://github.com/V33RU/IoTSecurity101)
  
-### University
+### University.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Aatmaj-Zephyr&repo=Solutions-to-first-year-practicals)](	https://github.com/Aatmaj-Zephyr/Solutions-to-first-year-practicals)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Ashish-khanagwal&repo=Open-source-practice-and-resources)](	https://github.com/Ashish-khanagwal/Open-source-practice-and-resources)
  
-### Interview prep
+### Interview Prep.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=mission-peace&repo=interview)](	https://github.com/mission-peace/interview)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Twipped&repo=InterviewThis)](	https://github.com/Twipped/InterviewThis)
@@ -90,7 +90,7 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=riti2409&repo=Resources-for-preparation-Of-Placements)](	https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=tsiege&repo=Tech-Interview-Cheat-Sheet)](	https://github.com/tsiege/Tech-Interview-Cheat-Sheet)
  
-### CP
+### Competitive Programming.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=WonderPro&repo=LeetCode)](	https://github.com/WonderPro/LeetCode)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=stephencarrera&repo=toy-problems)](	https://github.com/stephencarrera/toy-problems)
@@ -99,21 +99,21 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rupak-20&repo=Competitive-Programming)](	https://github.com/rupak-20/Competitive-Programming)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Navaneethp007&repo=MissionImpossible)](	https://github.com/Navaneethp007/MissionImpossible)
  
-### IOS
+### iOS.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=vsouza&repo=awesome-ios)](	https://github.com/vsouza/awesome-ios)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ansjdnakjdnajkd&repo=iOS)](	https://github.com/ansjdnakjdnajkd/iOS)
  
-### Blockchain
+### Blockchain.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=smartcontractkit&repo=full-blockchain-solidity-course-js)](	https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=protofire&repo=blockchain-learning-path)](	https://github.com/protofire/blockchain-learning-path)
  
-### Cloud computing
+### Cloud Computing.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=learntocloud&repo=learn-to-cloud)](	https://github.com/learntocloud/learn-to-cloud)
  
-### Web dev
+### Web Dev.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=learning-zone&repo=website-templates)](	https://github.com/learning-zone/website-templates)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ryanthtra&repo=django-rest-api-cheatsheet)](	https://github.com/ryanthtra/django-rest-api-cheatsheet)
@@ -124,11 +124,11 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=SanKlein&repo=JavaScript-30)](	https://github.com/SanKlein/JavaScript-30)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=LeCoupa&repo=awesome-bootstrappers)](	https://github.com/LeCoupa/awesome-bootstrappers)
  
-### Security
+### Security.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jassics&repo=security-study-plan)](	https://github.com/jassics/security-study-plan)
  
-### Languageresources questions and cheatsheets
+### Language Resources, Questions and Cheatsheets.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=inancgumus&repo=learngo)](	https://github.com/inancgumus/learngo)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=PrajaktaSathe&repo=Java)](	https://github.com/PrajaktaSathe/Java)
@@ -149,11 +149,11 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kjsce-codecell&repo=Advance-Python-Notes)](	https://github.com/kjsce-codecell/Advance-Python-Notes)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=PrachetShah&repo=Python-100DaysOfCode)](	https://github.com/PrachetShah/Python-100DaysOfCode)
  
-### Data base
+### Data Base.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=riti2409&repo=DBMS_SQL-Notes)](	https://github.com/riti2409/DBMS_SQL-Notes)
  
-### cheatsheets
+### Cheatsheets.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=sematext&repo=cheatsheets)](	https://github.com/sematext/cheatsheets)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ruanbekker&repo=cheatsheets)](	https://github.com/ruanbekker/cheatsheets)
@@ -163,18 +163,18 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=Java-Cheat-Sheet)](	https://github.com/PushpenderIndia/Java-Cheat-Sheet)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=gendx&repo=html-cheat-sheet)](	https://github.com/gendx/html-cheat-sheet)
  
-### Awesome github repositories
+### Awesome Github Repositories.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=0xRitesh&repo=awesome-repositories)](	https://github.com/0xRitesh/awesome-repositories)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Thuva4&repo=Useful-Repositories)](	https://github.com/Thuva4/Useful-Repositories)
 
  
-### git 
+### Git. 
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=EshanTrivedi21&repo=Git-CheatSheet)](	https://github.com/EshanTrivedi21/Git-CheatSheet)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kodekloudhub&repo=git-for-beginners-course)](	https://github.com/kodekloudhub/git-for-beginners-course)
  
-### Others
+### Others.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=mmenestret&repo=fp-resources)](	https://github.com/mmenestret/fp-resources)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kunal-kushwaha&repo=DevOps-Bootcamp)](	https://github.com/kunal-kushwaha/DevOps-Bootcamp)
@@ -188,9 +188,6 @@ So what are we waiting for! Let's get started!
 ______
 
 
-## 🤝 Help grow the community
+## 🤝 Help to Grow the Community.
 
 Know a cool repo? Let us know by opening a [pull request](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories/fork)!
-
-
-
