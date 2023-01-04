@@ -162,6 +162,7 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=LeCoupa&repo=awesome-cheatsheets)](	https://github.com/LeCoupa/awesome-cheatsheets)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=Java-Cheat-Sheet)](	https://github.com/PushpenderIndia/Java-Cheat-Sheet)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=gendx&repo=html-cheat-sheet)](	https://github.com/gendx/html-cheat-sheet)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=gendx&repo=html-cheat-sheet)](	https://github.com/gendx/html-cheat-sheet)
  
 ### Awesome Github Repositories.
 
@@ -181,7 +182,7 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=SanKlein&repo=practice)](	https://github.com/SanKlein/practice)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kamranahmedse&repo=design-patterns-for-humans)](	https://github.com/kamranahmedse/design-patterns-for-humans)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=WonderPro&repo=Books_for_programming)](	https://github.com/WonderPro/Books_for_programming)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kamranahmedse&repo=developer-roadmap)](	https://github.com/kamranahmedse/developer-roadmap)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=themeselection&repo=bootstrap-cheatsheet)](	https://github.com/themeselection/bootstrap-cheatsheet)
  
 ______
 
