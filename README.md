@@ -10,13 +10,13 @@ So what are we waiting for! Let's get started!
 
 ## Table of contents.
 
-- [Data structures.](#data-structures)
-- [Machine learning.](#machine-learning)
+- [Data Structures.](#data-structures)
+- [Machine Learning.](#machine-learning)
 - [Math.](#math)
 - [Flutter and App Dev.](#flutter-and-app-dev)
 - [IOT.](#iot)
 - [University.](#university)
-- [Interview prep.](#interview-prep)
+- [Interview Prep.](#interview-prep)
 - [Competitive Programming.](#cp)
 - [iOS.](#ios)
 - [Blockchain.](#blockchain)
@@ -24,7 +24,7 @@ So what are we waiting for! Let's get started!
 - [Web Dev.](#web-dev)
 - [Security.](#security)
 - [Language Resources, Questions and Cheatsheets.](#language-resources-questions-and-cheatsheets)
-- [Data Base](#data-base)
+- [Database.](#data-base)
 - [Cheatsheets.](#cheatsheets)
 - [Awesome Github Repositories.](#awesome-github-repositories)
 - [Git.](#git)
@@ -149,7 +149,7 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kjsce-codecell&repo=Advance-Python-Notes)](	https://github.com/kjsce-codecell/Advance-Python-Notes)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=PrachetShah&repo=Python-100DaysOfCode)](	https://github.com/PrachetShah/Python-100DaysOfCode)
  
-### Data Base.
+### Database.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=riti2409&repo=DBMS_SQL-Notes)](	https://github.com/riti2409/DBMS_SQL-Notes)
  
@@ -186,7 +186,7 @@ So what are we waiting for! Let's get started!
  
 ______
 
-### Special thanks to 
+### Special thanks to:
 
 <a href="https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Aatmaj-Zephyr/A-collection-of-useful-repositories" />
