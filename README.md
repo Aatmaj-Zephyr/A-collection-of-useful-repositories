@@ -183,6 +183,8 @@ So what are we waiting for! Let's get started!
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kamranahmedse&repo=design-patterns-for-humans)](	https://github.com/kamranahmedse/design-patterns-for-humans)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=WonderPro&repo=Books_for_programming)](	https://github.com/WonderPro/Books_for_programming)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=themeselection&repo=bootstrap-cheatsheet)](	https://github.com/themeselection/bootstrap-cheatsheet)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=public-apis&repo=public-apis)](	https://github.com/public-apis/public-apis)
+
  
 ______
 
