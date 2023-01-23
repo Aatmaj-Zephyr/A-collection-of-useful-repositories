@@ -30,6 +30,7 @@ So what are we waiting for! Let's get started!
 - [Git.](#git)
 - [Others.](#others)
 
+
 ### Data Structures.
 
 | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jwasham&repo=coding-interview-university)](https://github.com/jwasham/coding-interview-university) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=codescoop&repo=Play-with-Data-Structures)](https://github.com/codescoop/Play-with-Data-Structures) |
@@ -41,84 +42,73 @@ So what are we waiting for! Let's get started!
  
 ### Machine Learning.
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TarrySingh&repo=Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)](	https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=hrnbot&repo=Basic-Mathematics-for-Machine-Learning)](	https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=giangtranml&repo=ml-from-scratch)](	https://github.com/giangtranml/ml-from-scratch)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Krish-Mahajan&repo=Pandas-Tutorial)](	https://github.com/Krish-Mahajan/Pandas-Tutorial)
- 
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TarrySingh&repo=Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)](	https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=hrnbot&repo=Basic-Mathematics-for-Machine-Learning)](	https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) |
+| - | - |
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=giangtranml&repo=ml-from-scratch)](	https://github.com/giangtranml/ml-from-scratch) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Krish-Mahajan&repo=Pandas-Tutorial)](	https://github.com/Krish-Mahajan/Pandas-Tutorial) |
+
 ### Math.
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=patrickwalls&repo=mathematicalpython)](	https://github.com/patrickwalls/mathematicalpython)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=drvinceknight&repo=Python-Mathematics-Handbook)](	https://github.com/drvinceknight/Python-Mathematics-Handbook)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Jam3&repo=math-as-code)](	https://github.com/Jam3/math-as-code)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=michiganrobotics&repo=rob501)](	https://github.com/michiganrobotics/rob501)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TalalAlrawajfeh&repo=mathematics-roadmap)](	https://github.com/TalalAlrawajfeh/mathematics-roadmap)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=PlamenStilyianov&repo=FinMathematics)](	https://github.com/PlamenStilyianov/FinMathematics)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rossant&repo=awesome-math)](	https://github.com/rossant/awesome-math)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jgoerner&repo=distribution-cheatsheet)](	https://github.com/jgoerner/distribution-cheatsheet)
- 
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=patrickwalls&repo=mathematicalpython)](	https://github.com/patrickwalls/mathematicalpython) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=drvinceknight&repo=Python-Mathematics-Handbook)](	https://github.com/drvinceknight/Python-Mathematics-Handbook)|
+| - | - |
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Jam3&repo=math-as-code)](	https://github.com/Jam3/math-as-code) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=michiganrobotics&repo=rob501)](	https://github.com/michiganrobotics/rob501)|
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TalalAlrawajfeh&repo=mathematics-roadmap)](	https://github.com/TalalAlrawajfeh/mathematics-roadmap) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=PlamenStilyianov&repo=FinMathematics)](	https://github.com/PlamenStilyianov/FinMathematics)|
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rossant&repo=awesome-math)](	https://github.com/rossant/awesome-math) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jgoerner&repo=distribution-cheatsheet)](	https://github.com/jgoerner/distribution-cheatsheet) |
+
 ### Flutter and App Dev.
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=vandadnp&repo=flutter-tips-and-tricks)](	https://github.com/vandadnp/flutter-tips-and-tricks)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Ivo-Balbaert&repo=learning_dart)](	https://github.com/Ivo-Balbaert/learning_dart)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=iharshb&repo=flutter_ui_collection)](	https://github.com/iharshb/flutter_ui_collection)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=vamsitallapudi&repo=Android-Interview-Questions-And-Answers)](	https://github.com/vamsitallapudi/Android-Interview-Questions-And-Answers)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=balsikandar&repo=Best-Coding-practices-in-android)](	https://github.com/balsikandar/Best-Coding-practices-in-android)
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=vandadnp&repo=flutter-tips-and-tricks)](	https://github.com/vandadnp/flutter-tips-and-tricks) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Ivo-Balbaert&repo=learning_dart)](	https://github.com/Ivo-Balbaert/learning_dart) |
+| - | - |
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=iharshb&repo=flutter_ui_collection)](	https://github.com/iharshb/flutter_ui_collection) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=vamsitallapudi&repo=Android-Interview-Questions-And-Answers)](	https://github.com/vamsitallapudi/Android-Interview-Questions-And-Answers) |
+|[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=balsikandar&repo=Best-Coding-practices-in-android)](	https://github.com/balsikandar/Best-Coding-practices-in-android)|
  
 ### IOT.
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=IoT-For-Beginners)](	https://github.com/microsoft/IoT-For-Beginners)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=V33RU&repo=IoTSecurity101)](	https://github.com/V33RU/IoTSecurity101)
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=IoT-For-Beginners)](	https://github.com/microsoft/IoT-For-Beginners) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=V33RU&repo=IoTSecurity101)](	https://github.com/V33RU/IoTSecurity101) |
+| - | - | 
  
 ### University.
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Aatmaj-Zephyr&repo=Solutions-to-first-year-practicals)](	https://github.com/Aatmaj-Zephyr/Solutions-to-first-year-practicals)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Ashish-khanagwal&repo=Open-source-practice-and-resources)](	https://github.com/Ashish-khanagwal/Open-source-practice-and-resources)
- 
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Aatmaj-Zephyr&repo=Solutions-to-first-year-practicals)](	https://github.com/Aatmaj-Zephyr/Solutions-to-first-year-practicals) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Ashish-khanagwal&repo=Open-source-practice-and-resources)](	https://github.com/Ashish-khanagwal/Open-source-practice-and-resources) |
+| - | - |
+
 ### Interview Prep.
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=mission-peace&repo=interview)](	https://github.com/mission-peace/interview)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Twipped&repo=InterviewThis)](	https://github.com/Twipped/InterviewThis)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=viraptor&repo=reverse-interview)](	https://github.com/viraptor/reverse-interview)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yangshun&repo=tech-interview-handbook)](	https://github.com/yangshun/tech-interview-handbook)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Olshansk&repo=interview)](	https://github.com/Olshansk/interview)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=coding-club-iit-jammu&repo=Coding-Interview-Preparation)](	https://github.com/coding-club-iit-jammu/Coding-Interview-Preparation)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=riti2409&repo=Resources-for-preparation-Of-Placements)](	https://github.com/riti2409/Resources-for-preparation-Of-Placements)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=tsiege&repo=Tech-Interview-Cheat-Sheet)](	https://github.com/tsiege/Tech-Interview-Cheat-Sheet)
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=mission-peace&repo=interview)](	https://github.com/mission-peace/interview) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Twipped&repo=InterviewThis)](	https://github.com/Twipped/InterviewThis) |
+| - | - |
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=viraptor&repo=reverse-interview)](	https://github.com/viraptor/reverse-interview) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yangshun&repo=tech-interview-handbook)](	https://github.com/yangshun/tech-interview-handbook)|
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Olshansk&repo=interview)](	https://github.com/Olshansk/interview) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=coding-club-iit-jammu&repo=Coding-Interview-Preparation)](	https://github.com/coding-club-iit-jammu/Coding-Interview-Preparation) |
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=riti2409&repo=Resources-for-preparation-Of-Placements)](	https://github.com/riti2409/Resources-for-preparation-Of-Placements) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=tsiege&repo=Tech-Interview-Cheat-Sheet)](	https://github.com/tsiege/Tech-Interview-Cheat-Sheet) |
  
 ### Competitive Programming.
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=WonderPro&repo=LeetCode)](	https://github.com/WonderPro/LeetCode)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=stephencarrera&repo=toy-problems)](	https://github.com/stephencarrera/toy-problems)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=nileshky1&repo=LeetCode-Practice)](	https://github.com/nileshky1/LeetCode-Practice)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=knockcat&repo=Leetcode)](	https://github.com/knockcat/Leetcode)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rupak-20&repo=Competitive-Programming)](	https://github.com/rupak-20/Competitive-Programming)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Navaneethp007&repo=MissionImpossible)](	https://github.com/Navaneethp007/MissionImpossible)
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=WonderPro&repo=LeetCode)](	https://github.com/WonderPro/LeetCode) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=stephencarrera&repo=toy-problems)](	https://github.com/stephencarrera/toy-problems) |
+| - | - |
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=nileshky1&repo=LeetCode-Practice)](	https://github.com/nileshky1/LeetCode-Practice) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=knockcat&repo=Leetcode)](	https://github.com/knockcat/Leetcode) |
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rupak-20&repo=Competitive-Programming)](	https://github.com/rupak-20/Competitive-Programming) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Navaneethp007&repo=MissionImpossible)](	https://github.com/Navaneethp007/MissionImpossible) |
  
 ### iOS.
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=vsouza&repo=awesome-ios)](	https://github.com/vsouza/awesome-ios)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ansjdnakjdnajkd&repo=iOS)](	https://github.com/ansjdnakjdnajkd/iOS)
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=vsouza&repo=awesome-ios)](	https://github.com/vsouza/awesome-ios) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ansjdnakjdnajkd&repo=iOS)](	https://github.com/ansjdnakjdnajkd/iOS) |
+| - | - |
  
 ### Blockchain.
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=smartcontractkit&repo=full-blockchain-solidity-course-js)](	https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=protofire&repo=blockchain-learning-path)](	https://github.com/protofire/blockchain-learning-path)
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=smartcontractkit&repo=full-blockchain-solidity-course-js)](	https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=protofire&repo=blockchain-learning-path)](	https://github.com/protofire/blockchain-learning-path) |
+| - | - |
  
 ### Cloud Computing.
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=learntocloud&repo=learn-to-cloud)](	https://github.com/learntocloud/learn-to-cloud)
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=learntocloud&repo=learn-to-cloud)](	https://github.com/learntocloud/learn-to-cloud) |
+| - |
  
 ### Web Dev.
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=learning-zone&repo=website-templates)](	https://github.com/learning-zone/website-templates)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ryanthtra&repo=django-rest-api-cheatsheet)](	https://github.com/ryanthtra/django-rest-api-cheatsheet)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wsvincent&repo=awesome-django)](	https://github.com/wsvincent/awesome-django)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MoonHighway&repo=learning-react)](	https://github.com/MoonHighway/learning-react)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=goldbergyoni&repo=nodejs-course)](	https://github.com/goldbergyoni/nodejs-course)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=fullstackreact&repo=30-days-of-react)](	https://github.com/fullstackreact/30-days-of-react)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=SanKlein&repo=JavaScript-30)](	https://github.com/SanKlein/JavaScript-30)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=LeCoupa&repo=awesome-bootstrappers)](	https://github.com/LeCoupa/awesome-bootstrappers)
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=learning-zone&repo=website-templates)](	https://github.com/learning-zone/website-templates) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ryanthtra&repo=django-rest-api-cheatsheet)](	https://github.com/ryanthtra/django-rest-api-cheatsheet) |
+| - | - | 
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wsvincent&repo=awesome-django)](	https://github.com/wsvincent/awesome-django) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MoonHighway&repo=learning-react)](	https://github.com/MoonHighway/learning-react) |
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=goldbergyoni&repo=nodejs-course)](	https://github.com/goldbergyoni/nodejs-course) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=fullstackreact&repo=30-days-of-react)](	https://github.com/fullstackreact/30-days-of-react) |
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=SanKlein&repo=JavaScript-30)](	https://github.com/SanKlein/JavaScript-30) |
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=LeCoupa&repo=awesome-bootstrappers)](	https://github.com/LeCoupa/awesome-bootstrappers) |
  
 ### Security.
 
