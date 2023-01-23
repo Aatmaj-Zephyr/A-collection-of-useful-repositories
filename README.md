@@ -35,12 +35,12 @@ So what are we waiting for! Let's get started!
 | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jwasham&repo=coding-interview-university)](https://github.com/jwasham/coding-interview-university) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=codescoop&repo=Play-with-Data-Structures)](https://github.com/codescoop/Play-with-Data-Structures) |
 | - | - |
 | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kunal-kushwaha&repo=DSA-Bootcamp-Java)](	https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=careermonk&repo=data-structures-and-algorithms-made-easy-in-java)](https://github.com/careermonk/data-structures-and-algorithms-made-easy-in-java) |
+
 | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=technojam&repo=Ultimate_Algorithms_Repository)](	https://github.com/technojam/Ultimate_Algorithms_Repository) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Nawaz2000&repo=Java-DSA)](https://github.com/Nawaz2000/Java-DSA) |
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rupak-20&repo=DSA-concepts)](	https://github.com/rupak-20/DSA-concepts)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Python)](	https://github.com/TheAlgorithms/Python)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java)](	https://github.com/TheAlgorithms/Java)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=trekhleb&repo=javascript-algorithms)](	https://github.com/trekhleb/javascript-algorithms)
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rupak-20&repo=DSA-concepts)](	https://github.com/rupak-20/DSA-concepts) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Python)](	https://github.com/TheAlgorithms/Python)|
+
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java)](	https://github.com/TheAlgorithms/Java) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=trekhleb&repo=javascript-algorithms)](https://github.com/trekhleb/javascript-algorithms) |
  
 ### Machine Learning.
 
