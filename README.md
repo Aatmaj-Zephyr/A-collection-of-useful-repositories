@@ -183,7 +183,6 @@ So what are we waiting for! Let's get started!
 
 | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=EshanTrivedi21&repo=Git-CheatSheet)](	https://github.com/EshanTrivedi21/Git-CheatSheet) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=kodekloudhub&repo=git-for-beginners-course)](	https://github.com/kodekloudhub/git-for-beginners-course) |
 | - | - |
-[![Git](https://github-readme-stats.vercel.app/api/pin/?username=Abdelrhman-Sayed70&repo=Git)](https://github.com/Abdelrhman-Sayed70/Git )
 
 
 
