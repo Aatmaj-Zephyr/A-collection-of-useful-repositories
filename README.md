@@ -11,8 +11,8 @@ So what are we waiting for! Let's get started!
 ## Table of contents.
 
 - [Data Structures.](#data-structures)
+- [Data Preprocessing.](#data-preprocessing)
 - [Machine Learning.](#machine-learning)
-- [Data Preprocessing](#data-preprocessing)
 - [Math.](#math)
 - [Flutter and App Dev.](#flutter-and-app-dev)
 - [IOT.](#iot)
@@ -41,7 +41,9 @@ So what are we waiting for! Let's get started!
 | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rupak-20&repo=DSA-concepts)](	https://github.com/rupak-20/DSA-concepts) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Python)](	https://github.com/TheAlgorithms/Python)|
 | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java)](	https://github.com/TheAlgorithms/Java) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=trekhleb&repo=javascript-algorithms)](https://github.com/trekhleb/javascript-algorithms) |
  
-
+### Data Preprocessing
+| [![Data_Preprocessing](https://github-readme-stats.vercel.app/api/pin/?username=Abdelrhman-Sayed70&repo=Data_Preprocessing)](https://github.com/Abdelrhman-Sayed70/Data_Preprocessing) |
+| - |
 
 ### Machine Learning.
 
@@ -49,9 +51,7 @@ So what are we waiting for! Let's get started!
 | - | - |
 | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=giangtranml&repo=ml-from-scratch)](	https://github.com/giangtranml/ml-from-scratch) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Krish-Mahajan&repo=Pandas-Tutorial)](	https://github.com/Krish-Mahajan/Pandas-Tutorial) |
 
-### Data Preprocessing
-| [![Data_Preprocessing](https://github-readme-stats.vercel.app/api/pin/?username=Abdelrhman-Sayed70&repo=Data_Preprocessing)](https://github.com/Abdelrhman-Sayed70/Data_Preprocessing) |
-| - |
+
 
 
 ### Math.
