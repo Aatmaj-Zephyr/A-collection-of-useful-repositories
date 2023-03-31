@@ -135,6 +135,7 @@ So what are we waiting for! Let's get started!
 | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wsvincent&repo=awesome-django)](	https://github.com/wsvincent/awesome-django) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MoonHighway&repo=learning-react)](	https://github.com/MoonHighway/learning-react) |
 | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=goldbergyoni&repo=nodejs-course)](	https://github.com/goldbergyoni/nodejs-course) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=fullstackreact&repo=30-days-of-react)](	https://github.com/fullstackreact/30-days-of-react) |
 | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=SanKlein&repo=JavaScript-30)](	https://github.com/SanKlein/JavaScript-30) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=LeCoupa&repo=awesome-bootstrappers)](	https://github.com/LeCoupa/awesome-bootstrappers) |
+| [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=adminmart&repo=Modernize-Nextjs-Free)](	https://github.com/adminmart/Modernize-Nextjs-Free) | [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wrappixel&repo=materialpro-react-lite)](	https://github.com/wrappixel/materialpro-react-lite) |
  
 
  
